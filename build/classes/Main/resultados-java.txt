@@ -1,0 +1,12 @@
+VETOR TAMANHO 128
+DynamicPrograming -> 0 milisegundos
+Divide and Conquer -> 0 milisegundos
+Better Enumeration -> 2 milisegundos
+Enumeration -> 7 milisegundos
+
+VETOR TAMANHO 256
+DynamicPrograming -> 0 milisegundos
+Divide and Conquer -> 0 milisegundos
+Better Enumeration -> 1 milisegundos
+Enumeration -> 3 milisegundos
+

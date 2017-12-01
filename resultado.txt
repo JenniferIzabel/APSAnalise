@@ -1,0 +1,8 @@
+
+
+VETOR TAMANHO 256
+DynamicPrograming -> Tempo: 148576
+Divide and Conquer -> Tempo: 1325750
+Better Enumeration -> Tempo: 6045016
+Enumeration -> Tempo: 8172291
+
